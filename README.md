@@ -1,9 +1,10 @@
+<img align="right" width="350" src="https://avatars.githubusercontent.com/u/44597417?v=4" alt="full stack developer" />
+
 <a href="https://komarev.com/ghpvc/?username=hizemmontassar">
   <img align="right" src="https://komarev.com/ghpvc/?username=hizemmontassar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 <!-- Intro  -->
-<img align="right" width="350" src="https://avatars.githubusercontent.com/u/44597417?v=4" alt="full stack developer" />
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://hizemmontassar.github.io/">Montassar Hizem</a></b>
