@@ -3,6 +3,7 @@
 </a>
 
 <!-- Intro  -->
+<img align="right" width="350" src="https://avatars.githubusercontent.com/u/44597417?v=4" alt="full stack developer" />
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://hizemmontassar.github.io/">Montassar Hizem</a></b>
@@ -43,9 +44,8 @@
 # About me
 
 <p>
- <img align="right" width="350" height="200" src="https://avatars.githubusercontent.com/u/44597417?v=4" alt="full stack developer" />
   
- ✌️ &emsp; I know how to center a div <br/><br/>
+ ✌️ &emsp;  I know how to center a div <br/><br/>
  ❤️ &emsp; I Have the capacity to go beyond what is expected to achieve higher career goals<br/><br/>
  📧 &emsp; Reach me anytime: hizemontassar@gmail.com<br/><br/>
 
