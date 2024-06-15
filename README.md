@@ -45,9 +45,9 @@
 <p>
  <img align="right" width="350" src="./programmer.gif" alt="full stack developer" />
   
- ✌️ &emsp; I know how to center a div <br/><br/>
- ❤️ &emsp; I Have the capacity to go beyond what is expected to achieve higher career goals<br/><br/>
- 📧 &emsp; Reach me anytime: hizemontassar@gmail.com<br/><br/>
+ ✌️ I know how to center a div <br/><br/>
+ ❤ I Have the capacity to go beyond what is expected to achieve higher career goals<br/><br/>
+ 📧 Reach me anytime: hizemontassar@gmail.com<br/><br/>
 
 </p>
 
